@@ -1,5 +1,5 @@
 category: Web Gnome
-requires: cygwin atk glib2 gdk-pixbuf2 gtk2-x11 httrack
+requires: atk glib2 gdk-pixbuf2 gtk2-x11 httrack
 sdesc: "GTK+ HTTrack website copier frontend"
 ldesc: "This is a GTK+ frontend for Xavier Roche's HTTrack Website 
 Copier for reading Web pages offline and/or for mirroring Web sites."
