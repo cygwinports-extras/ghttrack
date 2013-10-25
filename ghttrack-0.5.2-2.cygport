@@ -1,6 +1,0 @@
-DESCRIPTION="GTK+ HTTrack frontend"
-HOMEPAGE="http://home.hccnet.nl/paul.schuurmans/linux/index.html"
-SRC_URI="http://home.hccnet.nl/paul.schuurmans/linux/download/${P}.tar.gz"
-
-WANT_AUTOMAKE=1.9
-MAKEOPTS+=" ${PN}docdir=/usr/share/doc/${PN}"

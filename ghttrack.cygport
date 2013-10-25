@@ -1,0 +1,13 @@
+NAME="ghttrack"
+VERSION=0.5.2
+RELEASE=2
+CATEGORY="Web"
+SUMMARY="GTK+ HTTrack website copier frontend"
+DESCRIPTION="This is a GTK+ frontend for Xavier Roche's HTTrack Website Copier
+for reading Web pages offline and/or for mirroring Web sites."
+REQUIRES="httrack"
+HOMEPAGE="http://home.hccnet.nl/paul.schuurmans/linux/index.html"
+SRC_URI="http://home.hccnet.nl/paul.schuurmans/linux/download/${NAME}-${VERSION}.tar.gz"
+
+WANT_AUTOMAKE=1.9
+MAKEOPTS+=" ${NAME}docdir=/usr/share/doc/${NAME}"

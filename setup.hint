@@ -1,6 +1,0 @@
-category: Web Gnome
-requires: htttrack libatk1.0_0 libglib2.0_0 libgdk_pixbuf2.0_0 libgtk2.0_0
-sdesc: "GTK+ HTTrack website copier frontend"
-ldesc: "This is a GTK+ frontend for Xavier Roche's HTTrack Website 
-Copier for reading Web pages offline and/or for mirroring Web sites."
-
